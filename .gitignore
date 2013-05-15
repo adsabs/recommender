@@ -1,0 +1,16 @@
+local_config.py
+*$py.class
+*.py,v
+*.py.[0-9]+
+*.py.backup
+*.py.new
+*.py.old
+*.py.orig
+*.py.save
+*.py.tmp
+*.pyc
+*~
+.*.swp
+test.py
+foo.py
+*.bibs
